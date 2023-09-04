@@ -15,8 +15,6 @@ git checkout tags/5.0
 
 mkdir Build
 
-cd Build
-
 cmake .
 
 make -j$(nproc)
