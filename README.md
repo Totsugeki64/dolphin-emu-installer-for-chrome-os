@@ -13,6 +13,7 @@ how to run:
 2. run these commands:
 
 chmod +x dolphin-installer-chromeos.sh
+
 ./dolphin-installer-chromeos.sh
 
 
