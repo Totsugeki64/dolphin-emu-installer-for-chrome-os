@@ -17,4 +17,4 @@ chmod +x dolphin-installer-chromeos.sh
 ./dolphin-installer-chromeos.sh
 
 
-4. wait for installer to finish. please do check on it now and then to see if any errors occured.
+3. wait for installer to finish. please do check on it now and then to see if any errors occured.
