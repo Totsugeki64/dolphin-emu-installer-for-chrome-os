@@ -11,7 +11,9 @@ how to run:
 
 1. move "dolphin-installer-chromeos.sh" to Linux Files.
 2. run these commands:
+
 chmod +x dolphin-installer-chromeos.sh
 ./dolphin-installer-chromeos.sh
 
-3. wait for installer to finish. please do check on it now and then to see if any errors occured.
+
+4. wait for installer to finish. please do check on it now and then to see if any errors occured.
